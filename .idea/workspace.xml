@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db906d8-9851-4fe6-9aad-5790cb37e4a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sub</find>
+      <find>mysql.sock</find>
+      <find>in(</find>
+      <find>CONFIG_MAX_LOOP</find>
+      <find>.php</find>
+      <find>FILE_EXT</find>
+      <find>loadFile</find>
+      <find>APP_DIR</find>
+      <find>APP_PATH</find>
+      <find>_controllerNamespaceName</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>APP_PATH</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/vendor/yunxuan/lighting/src</dir>
+    </dirStrings>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="19052" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="2366d15d-d257-4c0d-9a94-0aadebe0928c" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/www/toys/lighting-demo" />
+          <mapping local-root="$PROJECT_DIR$/public" remote-root="/www/toys/lighting-demo/public" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="83accd43-665c-4ddb-8a72-32e4bbf2f105" name="localhost (1)" port="81" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/www/toys/lighting-demo" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/yunxuan/lighting" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1VEPJEmE3P7jp6ixE3ezJGvgEX2" />
+  <component name="PropertiesComponent">
+    <property name="Constants" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/a" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/a" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" nameIsGenerated="true" filter_connections="FILTER" server_name="localhost (1)">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db906d8-9851-4fe6-9aad-5790cb37e4a9" name="Default Changelist" comment="" />
+      <created>1555321010205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555321010205</updated>
+      <workItem from="1555321011724" duration="941000" />
+      <workItem from="1555400706875" duration="2496000" />
+      <workItem from="1559926083557" duration="10370000" />
+      <workItem from="1560166127513" duration="2111000" />
+      <workItem from="1560240924863" duration="6668000" />
+      <workItem from="1560310998330" duration="2840000" />
+      <workItem from="1560324356291" duration="2718000" />
+      <workItem from="1560333989698" duration="2177000" />
+      <workItem from="1560406394727" duration="1783000" />
+      <workItem from="1560688808297" duration="1040000" />
+      <workItem from="1561703318373" duration="1079000" />
+      <workItem from="1561705268554" duration="2563000" />
+      <workItem from="1561708027659" duration="585000" />
+      <workItem from="1561714131976" duration="542000" />
+      <workItem from="1576815208437" duration="789000" />
+      <workItem from="1576822420827" duration="599000" />
+      <workItem from="1576825323654" duration="774000" />
+      <workItem from="1576834284651" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

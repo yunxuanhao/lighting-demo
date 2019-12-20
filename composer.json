@@ -1,0 +1,20 @@
+{
+    "name": "yunxuan/lighting-demo",
+    "authors": [
+        {
+            "name": "yunxuan",
+            "email": "yunxuan@didichuxing.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/yunxuanhao/lighting-demo"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yunxuan\\LightingDemo\\": "src"
+        }
+    }
+}

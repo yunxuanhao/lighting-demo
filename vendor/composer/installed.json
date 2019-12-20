@@ -1,0 +1,37 @@
+[
+    {
+        "name": "yunxuan/lighting",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/yunxuanhao/lighting",
+            "reference": "5c697837943f93d9fec910a300ec4f41a9ae8657"
+        },
+        "require": {
+            "ext-json": "*",
+            "php": ">=7.1.0"
+        },
+        "time": "2019-06-08T21:59:54+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Yunxuan\\Lighting\\": "src"
+            },
+            "files": [
+                "src/helper.php"
+            ]
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "yunxuan",
+                "email": "yunxuanhao@gmail.com"
+            }
+        ],
+        "description": "light framework"
+    }
+]
